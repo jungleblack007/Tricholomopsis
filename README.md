@@ -52,3 +52,11 @@ busco --list-datasets
 conda deactivate
 ```
 download your aimed database from https://busco-data.ezlab.org/v5/data/lineages/, unzip and put it in your data file folder.
+
+# 5. phylogenetic analysis softwares
+```shell
+conda install mafft
+conda install gblocks
+conda install seqkit
+conda install iqtree
+```
