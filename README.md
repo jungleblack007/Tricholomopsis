@@ -48,4 +48,4 @@ conda activate buscoEnv
 busco --list-datasets
 conda deactivate
 ```
-download your aimed database from https://busco-data.ezlab.org/v5/data/lineages/, unziped and put it in your data file folder.
+download your aimed database from https://busco-data.ezlab.org/v5/data/lineages/, unzip and put it in your data file folder.
