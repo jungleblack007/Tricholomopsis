@@ -1,9 +1,9 @@
 # Tricholomopsis
 Scripts, data matrices, and phylogenetic trees of Tricholomopsidiaceae
 
-# author: Gengshen Wang
-# version: v1.0
-# Update：2023.3.13
+author: Gengshen Wang
+version: v1.0
+Update：2023.3.13
 This script is used to install all softwares carrying on phylognetic analysis. They can be used in Linux and Windows Sublinux System on personal laptop. It hasn't been tested on Macos.
 
 # 1. install miniconda3
