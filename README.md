@@ -51,7 +51,7 @@ conda activate buscoEnv
 busco --list-datasets
 conda deactivate
 ```
-download your aimed database from https://busco-data.ezlab.org/v5/data/lineages/, unzip and put it in your data file folder.
+download your aimed database from https://busco-data.ezlab.org/v5/data/lineages/, unzip and put it in your data file folder. For example, if I study species, genus or family in Agaricales, agaricales_odb10 can be download and put in the file folder.
 
 # 5. phylogenetic analysis softwares
 ```shell
