@@ -1,5 +1,5 @@
 # Tricholomopsis
-Scripts, data matrices, and phylogenetic trees of Tricholomopsidiaceae
+Scripts, data matrices, and phylogenetic trees of Agaricales
 
 author: Gengshen Wang
 
@@ -60,3 +60,4 @@ conda install gblocks
 conda install seqkit
 conda install iqtree
 ```
+
